@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project explores the role of emojis in sentiment analysis within e-commerce reviews. Using advanced data analytics and machine learning techniques, we aim to integrate emoji sentiment to enhance the understanding of customer feedback.
+This project explores the role of emojis in sentiment analysis within e-commerce reviews. Using advanced data analytics and machine learning techniques, aim to integrate emoji sentiment to enhance the understanding of customer feedback.
 
 ## Objectives
 
