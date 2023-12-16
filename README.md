@@ -21,8 +21,8 @@ This research investigates the role of emojis in e-commerce sentiment analysis t
 2. **Sentiment Analysis in Reviews with/without Emojis**: Segregates reviews into emoji-inclusive and non-emoji groups. Employs NLP for sentiment analysis and comparative study to assess emotional depth differences.
    ![Sentiment Analysis in Reviews with/without Emojis](https://github.com/Talitapsouz/Deciphering-Emojis-A-Data-Analysis-Approach-to-Enhancing-Sentiment-Analysis-in-E-Commerce-Reviews/blob/main/Hypothesis02.svg)
 3. **Emoji-Infused Sentiment Analysis Models**: Develops a model integrating emoji sentiment with textual analysis. Trains the model on a dataset of text and emoji-filled reviews, benchmarking against standard models and evaluating using metrics like accuracy and precision.
-
-Each phase is designed to rigorously evaluate the corresponding hypothesis, contributing to a more nuanced understanding of consumer sentiments in e-commerce.
+   ![Emoji-Infused Sentiment Analysis Models](https://github.com/Talitapsouz/Deciphering-Emojis-A-Data-Analysis-Approach-to-Enhancing-Sentiment-Analysis-in-E-Commerce-Reviews/blob/main/Hypothesis03.svg)
+   Each phase is designed to rigorously evaluate the corresponding hypothesis, contributing to a more nuanced understanding of consumer sentiments in e-commerce.
 
 ## Dataset
 
