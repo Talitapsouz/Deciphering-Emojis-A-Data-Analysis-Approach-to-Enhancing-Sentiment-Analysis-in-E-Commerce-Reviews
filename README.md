@@ -16,6 +16,7 @@ This project explores the role of emojis in sentiment analysis within e-commerce
 This research investigates the role of emojis in e-commerce sentiment analysis through three hypotheses:
 
 1. **Emoji Usage by Product Category**: Involves data collection, cleaning, and segmentation from various e-commerce platforms. Analyzes emoji frequency and patterns across categories like Toys, Apparel, Electronics, and visualizes data to understand emotional undertones.
+   ![Emoji Usage Analysis Diagram](https://github.com/Talitapsouz/Deciphering-Emojis-A-Data-Analysis-Approach-to-Enhancing-Sentiment-Analysis-in-E-Commerce-Reviews/blob/main/Hypothesis1.svg)
 
 2. **Sentiment Analysis in Reviews with/without Emojis**: Segregates reviews into emoji-inclusive and non-emoji groups. Employs NLP for sentiment analysis and comparative study to assess emotional depth differences.
 
