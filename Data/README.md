@@ -28,16 +28,16 @@ The dataset omits general product category information but maintains a targeted 
 Our analysis employs various visualizations to effectively communicate insights derived from the data. These visualizations include:
 
 - **Word Cloud**: A graphical representation of the most frequently occurring words in the reviews, highlighting dominant themes and sentiments.
-  ![Word Cloud](path_to_word_cloud_image)
+  ![Word Cloud](https://github.com/Talitapsouz/Deciphering-Emojis-A-Data-Analysis-Approach-to-Enhancing-Sentiment-Analysis-in-E-Commerce-Reviews/blob/main/Diagrams/WordCloud.png)
 
 - **Review Length Distribution**: A histogram showcasing the distribution of the length of the reviews, providing insights into the typical verbosity of customers in different categories.
-  ![Review Length Distribution](path_to_review_length_distribution_image)
+  ![Review Length Distribution](https://github.com/Talitapsouz/Deciphering-Emojis-A-Data-Analysis-Approach-to-Enhancing-Sentiment-Analysis-in-E-Commerce-Reviews/blob/main/Diagrams/Review%20Length%20Distribution.png)
 
 - **Sentiment Score Distribution**: A distribution plot to visualize the range and frequency of sentiment scores assigned to the reviews, illustrating the overall sentiment landscape of the dataset.
-  ![Sentiment Score Distribution](path_to_sentiment_score_distribution_image)
+  ![Sentiment Score Distribution](https://github.com/Talitapsouz/Deciphering-Emojis-A-Data-Analysis-Approach-to-Enhancing-Sentiment-Analysis-in-E-Commerce-Reviews/blob/main/Diagrams/Sentiment%20Score%20Distribution.png)
 
 - **Most Common Words Barchart**: A barchart displaying the most commonly used words in the reviews, giving an overview of key topics and descriptors favored by customers.
-  ![Most Common Words Barchart](path_to_common_words_barchart_image)
+  ![Most Common Words Barchart](https://github.com/Talitapsouz/Deciphering-Emojis-A-Data-Analysis-Approach-to-Enhancing-Sentiment-Analysis-in-E-Commerce-Reviews/blob/main/Diagrams/Common%20Words.png)
 
 Each visualization is crafted to enhance our understanding of the dataset's intrinsic patterns, emotional tones, and customer engagement metrics.
 
