@@ -27,17 +27,25 @@ The dataset omits general product category information but maintains a targeted 
 
 Our analysis employs various visualizations to effectively communicate insights derived from the data. These visualizations include:
 
-- **Word Cloud**: A graphical representation of the most frequently occurring words in the reviews, highlighting dominant themes and sentiments.
-  ![Word Cloud](https://github.com/Talitapsouz/Deciphering-Emojis-A-Data-Analysis-Approach-to-Enhancing-Sentiment-Analysis-in-E-Commerce-Reviews/blob/main/Diagrams/WordCloud.png)
+<p align="center">
+  <b>Word Cloud:</b><br>
+  <img src="https://github.com/Talitapsouz/Deciphering-Emojis-A-Data-Analysis-Approach-to-Enhancing-Sentiment-Analysis-in-E-Commerce-Reviews/blob/main/Diagrams/WordCloud.png" alt="Word Cloud">
+</p>
 
-- **Review Length Distribution**: A histogram showcasing the distribution of the length of the reviews, providing insights into the typical verbosity of customers in different categories.
-  ![Review Length Distribution](https://github.com/Talitapsouz/Deciphering-Emojis-A-Data-Analysis-Approach-to-Enhancing-Sentiment-Analysis-in-E-Commerce-Reviews/blob/main/Diagrams/Review%20Length%20Distribution.png)
+<p align="center">
+  <b>Review Length Distribution:</b><br>
+  <img src="https://github.com/Talitapsouz/Deciphering-Emojis-A-Data-Analysis-Approach-to-Enhancing-Sentiment-Analysis-in-E-Commerce-Reviews/blob/main/Diagrams/Review%20Length%20Distribution.png" alt="Review Length Distribution">
+</p>
 
-- **Sentiment Score Distribution**: A distribution plot to visualize the range and frequency of sentiment scores assigned to the reviews, illustrating the overall sentiment landscape of the dataset.
-  ![Sentiment Score Distribution](https://github.com/Talitapsouz/Deciphering-Emojis-A-Data-Analysis-Approach-to-Enhancing-Sentiment-Analysis-in-E-Commerce-Reviews/blob/main/Diagrams/Sentiment%20Score%20Distribution.png)
+<p align="center">
+  <b>Sentiment Score Distribution:</b><br>
+  <img src="https://github.com/Talitapsouz/Deciphering-Emojis-A-Data-Analysis-Approach-to-Enhancing-Sentiment-Analysis-in-E-Commerce-Reviews/blob/main/Diagrams/Sentiment%20Score%20Distribution.png" alt="Sentiment Score Distribution">
+</p>
 
-- **Most Common Words Barchart**: A barchart displaying the most commonly used words in the reviews, giving an overview of key topics and descriptors favored by customers.
-  ![Most Common Words Barchart](https://github.com/Talitapsouz/Deciphering-Emojis-A-Data-Analysis-Approach-to-Enhancing-Sentiment-Analysis-in-E-Commerce-Reviews/blob/main/Diagrams/Common%20Words.png)
+<p align="center">
+  <b>Most Common Words Barchart:</b><br>
+  <img src="https://github.com/Talitapsouz/Deciphering-Emojis-A-Data-Analysis-Approach-to-Enhancing-Sentiment-Analysis-in-E-Commerce-Reviews/blob/main/Diagrams/Common%20Words.png" alt="Most Common Words Barchart">
+</p>
 
 Each visualization is crafted to enhance our understanding of the dataset's intrinsic patterns, emotional tones, and customer engagement metrics.
 
