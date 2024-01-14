@@ -26,4 +26,5 @@ This research investigates the role of emojis in e-commerce sentiment analysis t
 
 ## Dataset
 
-The analysis is based on a dataset of Amazon e-commerce reviews, encompassing a range of products and customer feedback.
+The analysis is based on a dataset of Amazon e-commerce reviews, encompassing a range of products and customer feedback. 
+The details of dataset are available in `data` directory.
