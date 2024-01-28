@@ -6,10 +6,16 @@ This project explores the role of emojis in sentiment analysis within e-commerce
 
 ## Objectives
 
-- To evaluate the influence of emojis on sentiment analysis outcomes.
-- To detect patterns and trends in emoji utilization within e-commerce reviews.
-- To develop, train, and assess a sentiment analysis model that incorporates emoji sentiment.
-- To expand the knowledge base of data analytics applications in e-commerce contexts.
+- **Assess Multi-Feature Impact on Sentiment Classification:** Evaluate how individual review text, star ratings, total votes (likes on reviews), extracted emojis, and the integration of text with emojis as multi-features influence the performance of transformer-based deep neural networks in sentiment classification for Amazon product reviews across selected categories.
+
+- **Enhance Emotion Detection Accuracy:** Investigate the enhancement in emotion detection accuracy and contextual understanding in natural language processing by integrating ratings, reviews, and emojis.
+
+-**Analyze Emoji Impact in Sentiment Analysis:** Explore the impact of incorporating emojis as additional features in sentiment analysis, especially in the health and personal care category of Amazon product reviews, using a 5-class approach and compare it with a traditional 3-class approach.
+
+-**Methodological Innovation in NLP:** Advance the methodology in natural language processing by leveraging multi-modal features to improve the accuracy and efficiency of sentiment analysis models.
+
+-**Practical Implications for E-commerce Stakeholders:** Provide actionable insights for stakeholders in e-commerce platforms, focusing on the practical applications of advanced sentiment analysis techniques to enhance product insights and customer satisfaction.
+
 
 ## Methodology
 
