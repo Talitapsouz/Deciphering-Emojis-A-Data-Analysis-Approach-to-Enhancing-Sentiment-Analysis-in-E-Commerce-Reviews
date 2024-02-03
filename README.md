@@ -19,16 +19,19 @@ This project explores the role of emojis in sentiment analysis within e-commerce
 
 ## Methodology
 
-This research investigates the role of emojis in e-commerce sentiment analysis through three hypotheses:
+This research delves into enhancing sentiment analysis in e-commerce reviews by systematically exploring the integration of multi-modal data, specifically focusing on text and emojis, alongside other review metrics like star ratings and total votes. The investigation is structured around a progressive, three-experiment framework:
 
-1. **Emoji Impact on Sentiment and Engagement:** This hypothesis involves the collection and analysis of product reviews, focusing on the correlation between the use of emojis and sentiment expressed in the review, star ratings, and total votes. The methodology includes data cleaning and normalization, sentiment analysis using NLP techniques, and statistical analysis to explore the relationship between emoji usage and various measures of customer engagement.
-   ![Emoji Usage Analysis Diagram](https://github.com/Talitapsouz/Deciphering-Emojis-A-Data-Analysis-Approach-to-Enhancing-Sentiment-Analysis-in-E-Commerce-Reviews/blob/main/Diagrams/Hypothesis1.svg)
+1. **Text-Based Sentiment Analysis Using BERT:** This foundational experiment employs the BERT model to analyze the sentiment of Amazon product reviews based solely on text. The process involves preprocessing review texts, tokenizing using BERT's tokenizer, and sentiment classification into predefined categories. The aim is to establish a baseline understanding of sentiment analysis leveraging textual content.
+   ![Text-Based Sentiment Analysis Architecture](https://github.com/path/to/diagram1.svg)
 
-2. **Sentiment Analysis in Reviews with/without Emojis**: Segregates reviews into emoji-inclusive and non-emoji groups. Employs NLP for sentiment analysis and comparative study to assess emotional depth differences.
-   ![Sentiment Analysis in Reviews with/without Emojis](https://github.com/Talitapsouz/Deciphering-Emojis-A-Data-Analysis-Approach-to-Enhancing-Sentiment-Analysis-in-E-Commerce-Reviews/blob/main/Diagrams/Hypothesis02.svg)
-3. **Emoji-Infused Sentiment Analysis Models**: Develops a model integrating emoji sentiment with textual analysis. Trains the model on a dataset of text and emoji-filled reviews, benchmarking against standard models and evaluating using metrics like accuracy and precision.
-   ![Emoji-Infused Sentiment Analysis Models](https://github.com/Talitapsouz/Deciphering-Emojis-A-Data-Analysis-Approach-to-Enhancing-Sentiment-Analysis-in-E-Commerce-Reviews/blob/main/Diagrams/Hypothesis03.svg)
-   Each phase is designed to rigorously evaluate the corresponding hypothesis, contributing to a more nuanced understanding of consumer sentiments in e-commerce.
+2. **Integration of Emojis with Text in Sentiment Analysis:** Building on the initial text-based analysis, this experiment introduces emojis into the sentiment analysis model. It involves the demojization of emojis to their textual representation, combined encoding of text and emoji with BERT, and applying attention mechanisms to integrate insights from both modalities. The goal is to assess the added value of emojis in capturing sentiment nuances.
+   ![Text and Emoji Integration Model](https://github.com/path/to/diagram2.svg)
+
+3. **Comprehensive Multi-Feature Sentiment Analysis:** The final experiment extends the sentiment analysis framework to include not just text and emojis but also star ratings and total votes as integral features of the model. This comprehensive approach employs a custom dataset class for data preprocessing, embedding layers for emojis, and a multi-head attention mechanism to fuse insights from all modalities, aiming to provide a holistic sentiment analysis model.
+   ![Comprehensive Multi-Feature Model Architecture](https://github.com/path/to/diagram3.svg)
+
+Each experiment is meticulously crafted to examine the incremental benefits of integrating various data modalities into sentiment analysis, ultimately contributing to a deeper and more accurate understanding of consumer sentiments in e-commerce reviews.
+
 
 ## Dataset
 
