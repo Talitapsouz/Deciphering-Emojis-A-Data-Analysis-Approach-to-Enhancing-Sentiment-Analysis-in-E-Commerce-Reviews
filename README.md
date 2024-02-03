@@ -28,7 +28,7 @@ This research delves into enhancing sentiment analysis in e-commerce reviews by 
    ![Text and Emoji Integration Model](https://github.com/Talitapsouz/Deciphering-Emojis-A-Data-Analysis-Approach-to-Enhancing-Sentiment-Analysis-in-E-Commerce-Reviews/blob/main/Diagrams/Text_Emoji.jpg)
 
 3. **Comprehensive Multi-Feature Sentiment Analysis:** The final experiment extends the sentiment analysis framework to include not just text and emojis but also star ratings and total votes as integral features of the model. This comprehensive approach employs a custom dataset class for data preprocessing, embedding layers for emojis, and a multi-head attention mechanism to fuse insights from all modalities, aiming to provide a holistic sentiment analysis model.
-   ![Comprehensive Multi-Feature Model Architecture](https://github.com/path/to/diagram3.svg)
+   ![Comprehensive Multi-Feature Model Architecture](https://github.com/Talitapsouz/Deciphering-Emojis-A-Data-Analysis-Approach-to-Enhancing-Sentiment-Analysis-in-E-Commerce-Reviews/blob/main/Diagrams/Multifeature_BERT.jpg)
 
 Each experiment is meticulously crafted to examine the incremental benefits of integrating various data modalities into sentiment analysis, ultimately contributing to a deeper and more accurate understanding of consumer sentiments in e-commerce reviews.
 
