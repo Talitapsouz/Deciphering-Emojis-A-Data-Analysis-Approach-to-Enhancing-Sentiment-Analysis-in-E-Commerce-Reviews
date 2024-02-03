@@ -22,7 +22,7 @@ This project explores the role of emojis in sentiment analysis within e-commerce
 This research delves into enhancing sentiment analysis in e-commerce reviews by systematically exploring the integration of multi-modal data, specifically focusing on text and emojis, alongside other review metrics like star ratings and total votes. The investigation is structured around a progressive, three-experiment framework:
 
 1. **Text-Based Sentiment Analysis Using BERT:** This foundational experiment employs the BERT model to analyze the sentiment of Amazon product reviews based solely on text. The process involves preprocessing review texts, tokenizing using BERT's tokenizer, and sentiment classification into predefined categories. The aim is to establish a baseline understanding of sentiment analysis leveraging textual content.
-   ![Text-Based Sentiment Analysis Architecture](https://github.com/path/to/diagram1.svg)
+   ![Text-Based Sentiment Analysis Architecture](https://github.com/Talitapsouz/Deciphering-Emojis-A-Data-Analysis-Approach-to-Enhancing-Sentiment-Analysis-in-E-Commerce-Reviews/blob/main/Diagrams/Only_Text.jpg)
 
 2. **Integration of Emojis with Text in Sentiment Analysis:** Building on the initial text-based analysis, this experiment introduces emojis into the sentiment analysis model. It involves the demojization of emojis to their textual representation, combined encoding of text and emoji with BERT, and applying attention mechanisms to integrate insights from both modalities. The goal is to assess the added value of emojis in capturing sentiment nuances.
    ![Text and Emoji Integration Model](https://github.com/path/to/diagram2.svg)
