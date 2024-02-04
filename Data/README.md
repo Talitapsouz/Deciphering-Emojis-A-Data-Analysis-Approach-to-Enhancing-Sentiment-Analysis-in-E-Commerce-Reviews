@@ -23,9 +23,9 @@ It includes:
 
 The dataset omits general product category information but maintains a targeted approach to understanding the role of emojis in consumer communication and sentiment in these particular e-commerce sectors.
 
-## Visualization Placeholders
+## Visualization
 
-Our analysis employs various visualizations to effectively communicate insights derived from the data. These visualizations include:
+The analysis employs various visualizations to effectively communicate insights derived from the data. These visualizations include:
 
 <p align="center">
   <b>Word Cloud:</b><br>
